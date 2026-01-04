@@ -1,0 +1,1 @@
+A kernel-independent fast multipole algorithm is used to accelerate the matrix-vector multiplication of the covariance matrix. For specific details, please refer to Yin Z, Pan W, Zheng X. A spectral-fast Voronoi framework based on multivariate Karhunen–Loève expansion for simulation of two-dimensional random fields[J]. Applied Mathematical Modelling, 2025: 116422.
